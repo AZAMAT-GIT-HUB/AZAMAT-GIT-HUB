@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Azamat and I'm a Java Developer, from Kazakhstan</h2>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamat-git-hub)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
