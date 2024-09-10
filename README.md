@@ -11,7 +11,9 @@ Professional in Java, JavaFX, PostgreSQL and PL/SQL programming with a track rec
 ## Skills and Experience
 Java | C# | .NET | Python | PL/SQL | PostgreSQL | JavaScript | React JS Bootstrap | HTML/CSS | Angular/Ract.js | Git     
 <div align="left">
-  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/java.png" height="30" alt="java logo"  />
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/java.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/java.png" height="30" alt="java logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
