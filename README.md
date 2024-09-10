@@ -1,10 +1,12 @@
-<h2 align="left">Hi 👋! My name is Azamat and I'm a Java Developer, from Kazakhstan</h2>
+<h2 align="left">Hi 👋! My name is Azamat and I'm a Software Engineer, from Kazakhstan</h2>
 
 
 
 ![I am GitHub Readme Generator's creator](https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/LinkedIn.png)
 
-Professional in Java, JavaFX, PostgreSQL and PL/SQL programming with a track record of producing relational database solutions for companies and good oral and written communication abilities. I am a self-starter with expertise in JavaScript, HTML, and CSS extracts who can work alone or lead a team to a cooperative solution. I am also a fully qualified SQL developer. I am able to work well both in a team environment as well as using own initiative.
+## About Me
+I'm Azamat, a recent graduate from Boston University with a Master's degree in Computer Science. I specialize in Java development and have experience working with technologies like JavaFX, the Spring Framework, Python, PostgreSQL, PL/SQL, and MongoDB. I'm passionate about building efficient software solutions and continuously learning to stay updated with the latest advancements in technology.  
+
 
 
 
@@ -48,18 +50,10 @@ Developed a real-time chat application using Java, JavaFX, MongoDB, and socket p
   <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/ForgotPage.png" width="250"  />
   <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/chatpage111.png" width="257"  /> 
   <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/222.png" width="257"  /> 
-    <img width="12" />
+  <img width="12" />
 </div>
 
 ## Social Media
-[<img src='https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/github.svg' alt='github' height='40'>](https://github.com/azamat-git-hub)  **GitHub**  
-
-[<img src='https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/azamat-omirzak/) **LinkedIn** 
-
-[<img src='https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/u.azamat.98/)  **Instagram** 
-
-
-## Test
 
 <div align="center">
   <table>
