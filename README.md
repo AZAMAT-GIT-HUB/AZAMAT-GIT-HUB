@@ -8,7 +8,13 @@ Professional in Java, JavaFX, PostgreSQL and PL/SQL programming with a track rec
 
 
 
-Skills: Java | C# | .NET | Python | PL/SQL | PostgreSQL | JavaScript | React JS Bootstrap | HTML/CSS | Angular/Ract.js | Git     
+## Skills and Experience
+Java | C# | .NET | Python | PL/SQL | PostgreSQL | JavaScript | React JS Bootstrap | HTML/CSS | Angular/Ract.js | Git     
+
+
+## Examples of Work
+Developed a real-time chat application using Java, JavaFX, MongoDB, and socket programming, achieving a 20% improvement in system responsiveness, and managing over 100 concurrent connections, with secure user authentication and persistent chat history.
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
