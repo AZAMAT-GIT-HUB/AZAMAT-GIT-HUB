@@ -23,7 +23,11 @@ Java | C# | .NET | Python | PL/SQL | PostgreSQL | JavaScript | React JS Bootstra
   <img width="12" />
   <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/postgresql.svg" height="30" alt="postgreSql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/spring.png" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/mongo.png" height="30" alt="mongoDB logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
