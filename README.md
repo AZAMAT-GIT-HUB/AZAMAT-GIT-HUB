@@ -17,10 +17,12 @@ Developed a real-time chat application using Java, JavaFX, MongoDB, and socket p
 
 
 <div align="left">
-  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/loginPage.png" width="256"  /> 
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/loginPage.png" width="256"  />  
   <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/Screenshot%202024-04-16%20184736.png" width="330"  />
   <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/ForgotPage.png" width="356"  />
   <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/chatpage111.png" width="357"  /> 
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/222.png" width="357"  /> 
+    <img width="12" />
 </div>
 
 <div align="left">
