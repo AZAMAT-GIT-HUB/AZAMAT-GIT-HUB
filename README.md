@@ -15,8 +15,12 @@ Java | C# | .NET | Python | PL/SQL | PostgreSQL | JavaScript | React JS Bootstra
 ## Examples of Work
 Developed a real-time chat application using Java, JavaFX, MongoDB, and socket programming, achieving a 20% improvement in system responsiveness, and managing over 100 concurrent connections, with secure user authentication and persistent chat history.
 
-<img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/loginPage.png" width="256"  />
 
+<div align="left">
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/loginPage.png" width="256"  /> 
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/chatpage111.png" width="356"  />
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/chatpage111.png" width="356"  />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
