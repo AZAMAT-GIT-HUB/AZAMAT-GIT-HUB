@@ -52,11 +52,39 @@ Developed a real-time chat application using Java, JavaFX, MongoDB, and socket p
 </div>
 
 ## Social Media
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/azamat-git-hub)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/azamat-omirzak/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/u.azamat.98/)  
+[<img src='https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/github.svg' alt='github' height='40'>](https://github.com/azamat-git-hub)  **GitHub**  
+
+[<img src='https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/azamat-omirzak/) **LinkedIn** 
+
+[<img src='https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/u.azamat.98/)  **Instagram** 
 
 
+## Test
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/azamat-git-hub">
+          <img src='https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/github.svg' alt='github' height='40'>
+        </a>
+        <br />GitHub
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/azamat-omirzak/">
+          <img src='https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/linkedin.svg' alt='linkedin' height='40'>
+        </a>
+        <br />LinkedIn
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/u.azamat.98/">
+          <img src='https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/instagram.svg' alt='instagram' height='40'>
+        </a>
+        <br />Instagram
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ###
