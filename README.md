@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋! My name is Azamat and I'm a Software Engineer, from Kazakhstan</h2>
-
-
+<h2 align="left">Hi 👋! My name is Azamat, and I'm a Software Engineer from Kazakhstan <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" alt="Kazakhstan Flag" width="45" height="27 style="margin-bottom: 25px;">  </h2>
 
 ![I am GitHub Readme Generator's creator](https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/LinkedIn.png)
 
