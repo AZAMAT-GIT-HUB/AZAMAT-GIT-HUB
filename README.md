@@ -10,21 +10,6 @@ Professional in Java, JavaFX, PostgreSQL and PL/SQL programming with a track rec
 
 ## Skills and Experience
 Java | C# | .NET | Python | PL/SQL | PostgreSQL | JavaScript | React JS Bootstrap | HTML/CSS | Angular/Ract.js | Git     
-
-
-## Examples of Work
-Developed a real-time chat application using Java, JavaFX, MongoDB, and socket programming, achieving a 20% improvement in system responsiveness, and managing over 100 concurrent connections, with secure user authentication and persistent chat history.
-
-
-<div align="left">
-  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/loginPage.png" width="180"  />  
-  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/Screenshot%202024-04-16%20184736.png" width="231"  />
-  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/ForgotPage.png" width="250"  />
-  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/chatpage111.png" width="257"  /> 
-  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/222.png" width="257"  /> 
-    <img width="12" />
-</div>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -42,7 +27,20 @@ Developed a real-time chat application using Java, JavaFX, MongoDB, and socket p
   <img width="12" />
 </div>
 
+## Examples of Work
+Developed a real-time chat application using Java, JavaFX, MongoDB, and socket programming, achieving a 20% improvement in system responsiveness, and managing over 100 concurrent connections, with secure user authentication and persistent chat history.
 
+
+<div align="left">
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/loginPage.png" width="180"  />  
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/Screenshot%202024-04-16%20184736.png" width="231"  />
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/ForgotPage.png" width="250"  />
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/chatpage111.png" width="257"  /> 
+  <img src="https://github.com/AZAMAT-GIT-HUB/AZAMAT-GIT-HUB/blob/main/222.png" width="257"  /> 
+    <img width="12" />
+</div>
+
+## Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/azamat-git-hub)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/azamat-omirzak/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/u.azamat.98/)  
